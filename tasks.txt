@@ -1,0 +1,8 @@
+0.open notepad
+1.work on terminal
+0.open notepad
+1.work on terminal
+0.open notepad
+1.work on terminal
+0.complete project
+0.work done
